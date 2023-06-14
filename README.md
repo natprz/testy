@@ -1,4 +1,6 @@
 #Program transformujący współrzędne do wybranych układów odniesienia
+
+
 Program służy do przeliczania współrzędnych geocentrycznych (X,Y,Z) do innych układów, bazując na różnych płaszczyznach odniesienia. Elipsoidami obsługiwanymi w programie są elipsoida WGS 84 oraz elipsoida GRS 80.
 
 ##Wymagania programowe

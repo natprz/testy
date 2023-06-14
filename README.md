@@ -42,7 +42,7 @@ Program zadaje poniższe pytania użytkownikowi:
   Możliwa odpowiedź: tak
 - Podaj numer pierwszego punktu
 - Podaj numer drugiego punktu
-  Przy tych podajemy dane o które prosi nas program
+  Przy tych pytaniach podajemy dane o które prosi nas program
 - Chcesz policzyć odległość 2D czy 3D?
   Możliwe odpowiedzi: 2D, 3D, nie
 - Chcesz policzyć jeszcze odległość 3D?

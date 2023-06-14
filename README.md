@@ -4,6 +4,8 @@
 Program służy do przeliczania współrzędnych geocentrycznych (X,Y,Z) do innych układów, bazując na różnych płaszczyznach odniesienia. Elipsoidami obsługiwanymi w programie są elipsoida WGS 84 oraz elipsoida GRS 80.
 
 ##Wymagania programowe
+
+
 Aby program działa poprawnie potrzebujemy programu obsługującego Pythona w wersji 3.8 lub nowszej.  
 Potrzebne są również biblioteki math, numpy oraz argparse, które musimy zaimplementować do naszego programu.
 Program został napisany dla systemu windows.
